@@ -1,4 +1,4 @@
-# Tarea2CloudComputing
+# Tarea 2 Cloud Computing
 
 Para correr el programa solo es necesario ejecutar los siguiente dos comandos en la terminal de la carpeta principal.
 
